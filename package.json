@@ -1,0 +1,25 @@
+{
+  "name": "scaleModeKnex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasmineGWT/scaleModeKnex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasmineGWT/scaleModeKnex/issues"
+  },
+  "homepage": "https://github.com/JasmineGWT/scaleModeKnex#readme",
+  "dependencies": {
+    "knex": "^0.10.0",
+    "sqlite3": "^3.1.1",
+    "tape": "^4.5.1"
+  }
+}
